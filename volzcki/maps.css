@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+}
+
+.button-style1 {
+    font-weight: 500;
+    font-size: 50px;
+    color: #000000;
+    text-decoration: none;
+}
+
+.button-style1:visited {
+    color: black;
+}
+
+.script{
+    width: 90vh;
+}
+
+.wraper iframe{
+    width: 100%;
+    height: 88vh;
+}
